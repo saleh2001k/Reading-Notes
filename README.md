@@ -2,6 +2,13 @@
 
 This website serves as a collection of my reading notes for various software development courses.
 
+#### - [Link to the website](https://saleh2001k.github.io/Reading-Notes/)
+
+| Column 2 |
+|----------|
+| [class01](./week01/class01A.md)   |
+| [class02](./week01/class01B.md)   |
+| [Basic Data structuer](./week01/BasicDataStructures.md)   |
 ## Code 102 - Intro to Software Development
 
 - **Topic 1**: This is the first topic for Code 102.
