@@ -11,6 +11,7 @@ This website serves as a collection of my reading notes for various software dev
 | [Basic Data structuer](./week01/BasicDataStructures.md)   |
 | [Express REST API](./week01/class02A.md)   |
 | [Linked list](./week01/class02B.md)   |
+| [Sql](./week02/sql.md)   |
 ## Code 102 - Intro to Software Development
 
 - **Topic 1**: This is the first topic for Code 102.
