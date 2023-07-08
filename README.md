@@ -15,6 +15,8 @@ This website serves as a collection of my reading notes for various software dev
 | [Authentication](./week03/auth.md)   |
 | [JSON Web Tokens](./week03/auth2.md)   |
 | [Project Idea](./week04/class9.md)   |
+| [Event Driven Applications](./week05/class11.md)   |
+
 
 
 ## Code 102 - Intro to Software Development
