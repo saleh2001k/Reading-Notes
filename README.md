@@ -17,6 +17,7 @@ This website serves as a collection of my reading notes for various software dev
 | [Project Idea](./week04/class9.md)   |
 | [Event Driven Applications](./week05/class11.md)   |
 | [Web Socket](./week05/class12.md)   |
+| [Web Socket 2](./week05/class13.md)   |
 
 
 ## Code 102 - Intro to Software Development
